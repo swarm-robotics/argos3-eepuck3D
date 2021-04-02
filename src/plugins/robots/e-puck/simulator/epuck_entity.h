@@ -91,7 +91,7 @@ namespace argos {
       }
 
       virtual std::string GetTypeDescription() const {
-         return "epuck";
+         return "e-puck";
       }
 
    private:
